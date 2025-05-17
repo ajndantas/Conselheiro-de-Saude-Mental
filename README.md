@@ -30,8 +30,6 @@ Instruções passo a passo para colocar o projeto em funcionamento localmente.
 
 Utlização do Google Colab.
 
-## Como Executar.
-
 
 
 
