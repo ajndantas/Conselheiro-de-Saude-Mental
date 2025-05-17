@@ -30,7 +30,8 @@ Instruções passo a passo para colocar o projeto em funcionamento localmente.
 
 Utlização do Google Colab.
 
-
+## Execução
+Acessar o link https://github.com/ajndantas/Conselheiro-de-Saude-Mental e clicar em Open in colab, para executar por meio do Google colab
 
 
 ## Contato
