@@ -28,7 +28,12 @@ Instruções passo a passo para colocar o projeto em funcionamento localmente.
 
 ## Pré-requisitos
 
-Utlização do Google Colab para execução.
+Utlização do Google Colab.
+
+## Como Executar.
+
+
+
 
 ## Contato
 
