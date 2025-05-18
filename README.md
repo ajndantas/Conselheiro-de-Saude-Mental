@@ -2,12 +2,12 @@
 
 ![Badge de Status](https://img.shields.io/badge/status-em%20desenvolvimento-orange).
 
-Este projeto visa por meio da anállise de padrões de escrita e fala, enviar um conselho para o cliente, de forma a alertá-lo sobre algum problema de 
+Este projeto visa por meio da anállise de padrões de escrita, enviar um conselho para o cliente, de forma a alertá-lo sobre algum problema de 
 saúde mental, e em resposta, oferecer atividades que possam minimizar o seu incômodo.
 
 ## 🧠 Sobre o Projeto
 
-Este projeto visa por meio de agentes de IA, analisar padrões de fala e escrita, para detectar sinais precoces de problemas de saúde mental, como depressão ou ansiedade oferecendo suporte.
+Este projeto visa por meio de agentes de IA, analisar padrões de escrita, para detectar sinais precoces de problemas de saúde mental, como depressão ou ansiedade oferecendo suporte.
 
 Inovação: Em vez de esperar que a pessoa procure ajuda, o agente identifica sinais sutis de problemas de saúde mental e oferece suporte proativo, potencialmente prevenindo crises.
 
