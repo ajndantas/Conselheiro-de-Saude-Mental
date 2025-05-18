@@ -28,7 +28,7 @@ Instruções passo a passo para colocar o projeto em funcionamento localmente.
 
 ## Pré-requisitos
 
-Utlização do Google Colab.
+Utlização do Google Colab e que o cliente tem uma chave gerada no Google Studio IA. Caso não saiba criar uma, siga o passo a passo deste <a href="https://drive.google.com/file/d/19jy8-UHqet6XjAI_-DeFkv_4jx38OJng/view?usp=sharing">link</href>
 
 ## Execução
 Acessar o link https://github.com/ajndantas/Conselheiro-de-Saude-Mental e clicar em Open in colab, para executar por meio do Google colab.
